@@ -1,0 +1,38 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	/*Begin3◦Даны стороны прямоугольника a и b. Найти его площадь S = a·b ипериметр P = 2·(a + b).*/
+	/* double a, b, S, P;
+	cin >> a;
+	cin >> b;
+	S = a * b;
+	P = 2 * (a + b);
+	cout << "S = " << S << endl;
+	cout << "P = " << P << endl;*/
+	/*Begin5◦ Дана длина ребра куба a. Найти объем куба V = a^3 и площадь его поверхности S = 6·a^2*/
+	/*double a, V, S;
+	cin >> a;
+	V = a * a * a;
+	S = 6 * a * a;
+	cout << "V = " << V << endl;
+	cout << "S = " << S << endl;*/
+	/*Begin6◦ Даны длины ребер a, b, c прямоугольного параллелепипеда. Найти его объем V = a·b·c и площадь поверхности S = 2·(a·b + b·c + a·c).*/
+	/*double a, b, c, V, S;
+	cin >> a;
+	cin >> b;
+	cin >> c;
+	V = a * b * c;
+	S = 2 * (a * b + b * c + a * c);
+	cout << "V = " << V << endl;
+	cout << "S = " << S << endl;*/
+	/*Begin7◦ Найти длину окружности L и площадь круга S заданного радиуса R:L = 2·π·R, S = π·R^2.В качестве значения π использовать 3.14.*/
+	/*double r, S, L, pi;
+	cin >> r;
+	pi = 3.14;
+	L = 2 * pi * r;
+	S = pi * r * r;
+	cout << "L = " << L << endl;
+	cout << "S = " << S << endl;*/
+	return 0;
+}
